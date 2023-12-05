@@ -1,1 +1,3 @@
 this is the first to my awesome project
+
+addition to file 1
